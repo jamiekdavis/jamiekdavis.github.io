@@ -9,17 +9,17 @@ title = "Blowfish"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/profile.png"
+  # logo = "img/profile.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "Jamie personal website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [params.author]
    name = "Jamie Davis"
 #   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
-#   imageQuality = 96
-#   headline = "Data person and yoga-enthusiast"
+    image = "img/profile.png"
+    imageQuality = 96
+   headline = "Data person and yoga-enthusiast"
    bio = "Data person and yoga-enthusiast"
    links = [
       { github = "https://github.com/jamiekdavis" },
