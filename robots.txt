@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jamiekdavis.github.io/sitemap.xml
