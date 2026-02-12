@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jamie Davis</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Jamie Davis</description>
+    <title>Python on Jamie Davis</title>
+    <link>http://localhost:1313/tags/python/</link>
+    <description>Recent content in Python on Jamie Davis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Jamie Davis</copyright>
-    <lastBuildDate>Thu, 12 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>It Pays to Be Lazy</title>
       <link>http://localhost:1313/posts/polars-lazy/</link>
-      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/polars-lazy/</guid>
       <description>A brief introduction Polars lazy mode</description>
